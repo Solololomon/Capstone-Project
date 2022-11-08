@@ -52,7 +52,7 @@ Marketing may want to either focus on their best-performing demographics, or hel
 #### See figure: 'Month_Sales.png'
 Again, using a MySQL view, I have counted the quantity of products sold for each month. I have decided it best to convey this information in the form of a standard line plot, making it easier to identify trends and determine whether or not sales are consistent throughout the year.
 #### Conclusion:
-It's clear that sales perform considerably worse around May than at any other time of year. This is an indication that sales are indeed seasonal, drastically underperforming in the summer months. Conversely, they perform best between January and March, with the peak number of sales occuring in the spring. After summer, the sales increase again during autumn, but then there is another clear downward trend as winter begins. We could expect to see that the sales would pick up again in the new year, completing the cycle.
+It's clear that sales perform considerably worse around May than at any other time of year. This is an indication that sales are indeed seasonal, drastically underperforming in the summer months. Conversely, they perform best between January and March, with the peak number of sales occurring in the spring. After summer, the sales increase again during autumn, but then there is another clear downward trend as winter begins. We could expect to see that the sales would pick up again in the new year, completing the cycle.
 
 ### Objective 4: Performance By Region
 #### See figure: 'Region_Sales.png'
