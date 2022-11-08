@@ -1,0 +1,51 @@
+order_id,product,quantity,age,uk_region,cpa,month,year
+1.0,toothbrush,1.0,21.0,UK North East,2.0,Oct,2021
+2.0,toys,2.0,35.0,UK South East,3.0,Oct,2021
+3.0,toothbrush,1.0,24.0,UK North,2.0,Oct,2021
+4.0,toothbrush,1.0,21.0,UK North East,4.0,Dec,2021
+5.0,toothbrush,2.0,20.0,UK North,5.0,Oct,2021
+6.0,toothbrush,1.0,22.0,UK North East,2.0,Dec,2021
+7.0,toothbrush,2.0,24.0,UK South East,1.0,Oct,2021
+8.0,toothbrush,1.0,21.0,UK North East,6.0,Dec,2021
+9.0,toothbrush,1.0,24.0,UK North,7.0,Oct,2021
+10.0,toothbrush,1.0,21.0,UK North East,9.0,Dec,2021
+11.0,toothbrush,1.0,24.0,UK South East,10.0,Oct,2021
+12.0,toothbrush,1.0,21.0,UK North East,2.0,Dec,2021
+13.0,toys,2.0,35.0,UK South East,3.0,Jan,2021
+14.0,toys,3.0,32.0,UK South East,2.0,Jan,2021
+15.0,toys,1.0,31.0,UK South East,3.0,Jan,2021
+16.0,toys,1.0,31.0,UK South East,2.0,Jan,2021
+17.0,toothbrush,1.0,21.0,UK North East,3.0,Oct,2021
+18.0,toys,2.0,35.0,UK South East,4.0,Oct,2021
+19.0,toothbrush,1.0,55.0,UK North,2.0,Mar,2021
+20.0,toothbrush,1.0,56.0,UK North East,3.0,Mar,2021
+21.0,toothbrush,2.0,50.0,UK North,9.0,Mar,2021
+22.0,toothbrush,1.0,59.0,UK North East,5.0,Mar,2021
+23.0,toothbrush,2.0,60.0,UK South East,2.0,Mar,2021
+24.0,toothbrush,1.0,45.0,UK North East,2.0,Mar,2021
+25.0,toothbrush,1.0,50.0,UK North,3.0,Mar,2021
+26.0,toothbrush,1.0,56.0,UK North East,2.0,Mar,2021
+27.0,toothbrush,1.0,50.0,UK South East,3.0,Mar,2021
+28.0,toothbrush,1.0,59.0,UK North East,2.0,Mar,2021
+29.0,toys,2.0,35.0,UK South East,3.0,Mar,2021
+30.0,toys,3.0,32.0,UK South East,2.0,Mar,2021
+31.0,toys,1.0,31.0,UK South East,3.0,Jan,2021
+32.0,toys,1.0,31.0,UK South East,2.0,Jan,2021
+33.0,toothbrush,1.0,21.0,UK North East,3.0,Dec,2021
+34.0,toothbrush,1.0,24.0,UK South East,2.0,Oct,2021
+35.0,toothbrush,1.0,21.0,UK North East,3.0,Dec,2021
+36.0,toys,2.0,35.0,UK South East,2.0,Jan,2021
+37.0,toys,1.0,32.0,UK South East,3.0,Jan,2021
+38.0,toothbrush,1.0,21.0,UK North East,2.0,Dec,2021
+39.0,toothbrush,1.0,24.0,UK South East,3.0,Oct,2021
+40.0,toothbrush,1.0,21.0,UK North East,2.0,Dec,2021
+41.0,toys,2.0,35.0,UK South East,3.0,Jan,2021
+42.0,toys,3.0,32.0,UK South East,2.0,Jan,2021
+43.0,toys,1.0,32.0,UK South East,3.0,Jan,2021
+44.0,toothbrush,1.0,21.0,UK North East,2.0,Dec,2021
+45.0,toothbrush,1.0,24.0,UK South East,3.0,Oct,2021
+46.0,toothbrush,1.0,21.0,UK North East,2.0,Dec,2021
+47.0,toothbrush,1.0,55.0,UK North,3.0,May,2021
+48.0,toothbrush,1.0,56.0,UK North East,5.0,May,2021
+49.0,toothbrush,1.0,55.0,UK North,1.0,Mar,2021
+50.0,toothbrush,1.0,60.0,UK North East,2.0,Mar,2021
