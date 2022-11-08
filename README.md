@@ -18,9 +18,9 @@ For this project, I have been asked to produce insights into various aspects of 
 4 - Whether the company's marketing spend across various UK regions can be justified <br>
 5 - The average CPA (Cost per acquisition) of each region, and how it compares to the expected value. <br>
 
-Full information on the project requirements are available in the 'Project Requirements.docx' file.
+Full information on the project requirements is available in the 'Project Requirements.docx' file.
 
-The sample data set is given in .csv form, and I have been provided with a MySQL database in which I can generate tables/views to use in the project. The project will be carried out in two distinct phases: data cleaning, and visualisation.
+The sample data set is given in .csv form, and I have been provided with a MySQL database in which I can generate tables/views to use in the project. The project will be conducted in two distinct phases: data cleaning, and visualisation.
 
 ### Phase 1: Data Cleaning
 #### See notebook: 'Capstone_1_Data_Cleaning.ipynb'
@@ -46,7 +46,7 @@ The first of these visuals shows that the most popular age demographic is people
 
 The second visual shows that the North East and South East are by far the most popular customer regions. Conversely, UK North represents around just 16% of customers, and the South recorded none whatsoever.
 
-Marketing may want to either focus on their best-performing demographics, or help boost the under-performing ones. Either way, these visuals should help them draw the conclusions they need and allocate resources as necessary.
+Marketing may want to either focus on their best-performing demographics, or help boost the under-performing ones. Either way, these visuals should help them draw the conclusions they need and allocate resources, as necessary.
 
 ### Objective 3: Sales Throughout the Year 
 #### See figure: 'Month_Sales.png'
