@@ -3,9 +3,9 @@
 
 ### Repository Contents
 This repository contains:<br>
-- Two Jupyter notebooks in which all of my Python code is held. Throughout each notebook, I have documented each step, and have included the project objectives and  my conclusions. These outcomes will be included in this README file.
-- Several .csv files; the initial set of test data, and the rest that have been generated either in my notebook, or by creating a view in MySQL. All SQL queries have been included in the Jupyter notebooks where the views have been imported.
-- Five .png files; a final figure/plot relating to each objective (outlined below).
+- Two Jupyter notebooks in which all of my Python code is held. Throughout each notebook, I have documented each step, and have included the project objectives and  my conclusions. These outcomes will also be shared in this README file.
+- Several .csv files; the initial set of test data, and the rest that have been generated either in my notebook, or by creating a view in MySQL. All SQL queries have been included in markdown boxes within the Jupyter notebooks where the views are used.
+- Five .png files; a final figure/plot relating to each objective.
 - A .docx file explaining the project requirements.
 - This README file.
 
