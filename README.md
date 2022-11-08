@@ -1,7 +1,7 @@
 # Data Engineering Capstone Project for Xander Talent
 ## Solomon Williams - 8th November 2022
 
-### Contents
+### Repository Contents
 This repository contains:<br>
 - Two Jupyter notebooks in which all of my Python code is held. Throughout each notebook, I have documented each step, and have included the project objectives and  my conclusions. These outcomes will be included in this README file.
 - Several .csv files; the initial set of test data, and the rest that have been generated either in my notebook, or by creating a view in MySQL. All SQL queries have been included in the Jupyter notebooks where the views have been imported.
@@ -67,3 +67,6 @@ Outside of the South East, there were no recorded toys sales. If the marketing t
 The given expected CPA values are available at a web address, and so I have decided to use Requests and BeautifulSoup to web scrape this information into a dictionary with region as the key and CPA as the value. As these values seem to pertain to sales in October 2021, I had to filter the dataset to obtain only the relevant information, which was done using another MySQL view. I have zipped this information into a single DataFrame detailing the actual and expected CPA averages for each region, which will then be plotted into a stacked bar chart. 
 #### Conclusion:
 For all three regions where we had data, it was evident that the actual CPA was significantly below the expected value. Surprisingly, UK north had the highest actual CPA despite having a lower expected CPA than the others. Nonetheless, this is a positive finding, and shows that the current marketing strategies are acquiring customers at a lower cost than anticipated.
+
+### Recommendations for Future Projects
+Going forward, this project could be refined by using the pymysql package, and implementing pymysql.connect() to avoiding manually interacting with the database and exporting csv files to be read into the notebook. If the database was to be scaled up to a much larger size, this would undoubtedly be a more efficient way of pushing and pulling data to and from it. Aside from this, the current model has decent scalability and fault tolerance, providing entries are of the expected type. It could be worthwhile adding basic tests for the input data to ensure that it will be compatible with the model.
